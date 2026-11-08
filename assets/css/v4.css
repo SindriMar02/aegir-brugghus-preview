@@ -288,6 +288,7 @@ html.js:not(.no-intro) .bx__t > *:nth-child(2) { animation-delay: .07s; } html.j
 .sheet__x span { background: var(--cream); height: 1.5px; }
 .toast { border: 0; border-radius: var(--r); background: var(--ink); color: var(--cream); font: 600 .72rem var(--f-ui); letter-spacing: .14em; }
 body.nf { background: var(--sea-deep); color: var(--cream); }
+body.nf main.nf__in { background: var(--night); }
 body.nf .nf__p { stroke: var(--cream); }
 body.nf .nf__drop { fill: var(--amber); }
 body.nf .h1 { font-size: clamp(3rem, 7vw, 5.4rem); }
