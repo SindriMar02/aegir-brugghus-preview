@@ -1,0 +1,51 @@
+# ÆGIR Brugghús
+> ÆGIR Brugghús is a family brewery on Grandi in Reykjavík, founded in 2017, with two bars of its own: ÆGIR 101 (Laugavegur 2, Reykjavík) and ÆGIR 220 (Strandgata 90, Hafnarfjörður, taproom and event hall).
+
+## Facts (EN)
+
+### ÆGIR 101
+- Address: Laugavegur 2, 101 Reykjavík
+- E-mail: aegir101@aegirbrugghus.is
+- Opening hours: Mon–Thu 12:00–23:00; Fri–Sat 12:00–01:00; Sun 12:00–23:00
+- Page: https://sindrimar02.github.io/aegir-brugghus-preview/101/
+- Síða: https://sindrimar02.github.io/aegir-brugghus-preview/is/101/
+
+### ÆGIR BRUGGHÚS
+- Address: Eyjarslóð 5, 101 Reykjavík
+- E-mail: brugg@aegirbrugghus.is
+- Visits: by arrangement
+- Page: https://sindrimar02.github.io/aegir-brugghus-preview/brewery/
+- Síða: https://sindrimar02.github.io/aegir-brugghus-preview/is/brugghus/
+
+### ÆGIR 220
+- Address: Strandgata 90, 220 Hafnarfjörður
+- E-mail: aegir220@aegirbrugghus.is
+- Opening hours: Mon–Wed closed; Thu 17:00–22:00; Fri–Sat 17:00–00:00; Sun closed
+- Hall: 150 seated for dinner, 250 to 300 standing, stage, sound system, projector, dance floor, wheelchair access, licence to serve alcohol until 01:00
+- Page: https://sindrimar02.github.io/aegir-brugghus-preview/220/
+- Síða: https://sindrimar02.github.io/aegir-brugghus-preview/is/220/
+
+## Beers
+- Barabjór (Pale Ale): https://sindrimar02.github.io/aegir-brugghus-preview/beers/barabjor/
+- Bönní Bönní Bönní Bönní (White Ale): https://sindrimar02.github.io/aegir-brugghus-preview/beers/bonni-bonni-bonni-bonni/
+- Býkúpudrottning (Honey Sour): https://sindrimar02.github.io/aegir-brugghus-preview/beers/bykupudrottning/
+- Dr. Schepsky's (Passion Fruit Sour): https://sindrimar02.github.io/aegir-brugghus-preview/beers/dr-schepskys/
+- Ekkert sérstaklega jólaleg jól (Lime IPA): https://sindrimar02.github.io/aegir-brugghus-preview/beers/ekkert-serstaklega-jolaleg-jol/
+- Fantur (Coffee IPA): https://sindrimar02.github.io/aegir-brugghus-preview/beers/fantur/
+- Fenrir (Lager): https://sindrimar02.github.io/aegir-brugghus-preview/beers/fenrir/
+- Gettódjús (American Lager): https://sindrimar02.github.io/aegir-brugghus-preview/beers/gettodjus/
+- Hóhóhó (Brown Ale): https://sindrimar02.github.io/aegir-brugghus-preview/beers/hohoho/
+- Hóhóhólísjitt (Barrel Aged Stout): https://sindrimar02.github.io/aegir-brugghus-preview/beers/hohoholisjitt/
+- Loki (IPA): https://sindrimar02.github.io/aegir-brugghus-preview/beers/loki/
+- Rán (Lite Lager): https://sindrimar02.github.io/aegir-brugghus-preview/beers/ran/
+- Súr á Móti (Sour IPA): https://sindrimar02.github.io/aegir-brugghus-preview/beers/sur-a-moti/
+- Vesen (Session IPA): https://sindrimar02.github.io/aegir-brugghus-preview/beers/vesen/
+- The Bitter Truth (IPA): https://sindrimar02.github.io/aegir-brugghus-preview/beers/the-bitter-truth/
+- Hoppaðu uppí húsbílinn á þér (IPL): https://sindrimar02.github.io/aegir-brugghus-preview/beers/hoppadu-uppi-husbilinn-a-ther/
+- Lemmy IPA (IPA): https://sindrimar02.github.io/aegir-brugghus-preview/beers/lemmy-ipa/
+- Blíða (Stout): https://sindrimar02.github.io/aegir-brugghus-preview/beers/blida/
+
+## Notes
+- Every beer on tap at ÆGIR 101 and ÆGIR 220 is brewed at ÆGIR Brugghús on Grandi, Reykjavík.
+- Tonight's taps and events are shown on the home page and the events page (sample data in the prototype).
+- ABV, tasting notes and phone numbers are not published yet.

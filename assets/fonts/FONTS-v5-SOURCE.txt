@@ -1,0 +1,1 @@
+Pirata One (SIL OFL 1.1, Rodrigo Fuenzalida) and Inter (SIL OFL 1.1, Rasmus Andersson), latin subset, from fonts.gstatic.com on 8 Nov 2026. Pirata One is the display font set in the live aegirbrugghus.is stylesheet (--font-display), Inter its body font (--font-body).

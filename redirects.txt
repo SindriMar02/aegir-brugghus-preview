@@ -1,0 +1,6 @@
+# Legacy URLs to keep (301 on the production host; GitHub Pages cannot redirect)
+/pages/aegir-101 -> https://sindrimar02.github.io/aegir-brugghus-preview/101/
+/pages/aegir-220 -> https://sindrimar02.github.io/aegir-brugghus-preview/220/
+/products/* -> https://sindrimar02.github.io/aegir-brugghus-preview/beers/
+/ægir/220 -> https://sindrimar02.github.io/aegir-brugghus-preview/220/
+/ægir/101 -> https://sindrimar02.github.io/aegir-brugghus-preview/101/
